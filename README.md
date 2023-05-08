@@ -1,1 +1,1 @@
-# resaltador-de-sintaxis
+En este proyecto creamos un resaltador de Sintaxis en Prolog.
