@@ -1,1 +1,1 @@
-En este proyecto creamos un resaltador de Sintaxis en Prolog.
+En este proyecto creamos un resaltador de sintaxis en Racket.
